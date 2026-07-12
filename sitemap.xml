@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/download/da2748a78-d4ed4e52e/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://www.pms-avocats.com/</loc>
+       <lastmod>2026-07-12T18:21:20+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://www.pms-avocats.com/en/</loc>
+       <lastmod>2026-07-12T18:21:20+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.pms-avocats.com/mentions-legales.html</loc>
+       <lastmod>2026-07-12T18:21:20+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.pms-avocats.com/en/mentions-legales.html</loc>
+       <lastmod>2026-07-12T18:21:20+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
